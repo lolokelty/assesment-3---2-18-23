@@ -1,0 +1,27 @@
+    .crumb {
+        margin-right: 2em;
+        display: inline;
+    }
+    
+    body {
+        background: #ddd;
+        margin: 1rem;
+        padding: 1rem;
+        max-width: 500px;
+        margin: 2rem auto;
+        font-family: "Open Sans", sans-serif;
+    }
+    
+    nav {
+        border-bottom: 2px solid orange;
+    }
+    
+    ol {
+        padding-left: 0;
+    }
+    
+    .image {
+        margin-top: 1rem;
+        margin-bottom: 5rem;
+        margin-left: -15rem
+    }
